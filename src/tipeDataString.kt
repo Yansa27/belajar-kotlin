@@ -1,3 +1,5 @@
+package src
+
 fun main() {
     var fullName: String = "juliansa"
 
